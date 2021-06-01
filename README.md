@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Zoli06
+- 👀 I’m interested in web developing
+- 🌱 I’m currently learning artifical intelligence and WiFi hacking <!-- - 💞️ I’m looking to collaborate on ... -->
+- 📫 How to reach me: zolixvagyok@gmail.com, +36 30 293 6790
