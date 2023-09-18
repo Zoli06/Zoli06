@@ -2,4 +2,4 @@
 - 👀 I’m interested in web developing
 - 🌱 I’m currently learning GraphQL and React
 - 💞️ I’m looking to collaborate on any project by which I can learn something new
-- 📫 How to reach me: zolixvagyok@gmail.com, +36 30 293 6790
+- 📫 How to reach me: zolixvagyok@gmail.com
