@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Zoli06
 - 👀 I’m interested in web technologies
-- 🌱 I’m currently learning .NET and Flutter
+- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on any project by which I can learn something new
 - 📫 How to reach me: csaszar.zoltan24@gmail.com
